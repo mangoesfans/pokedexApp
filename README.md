@@ -4,8 +4,7 @@ composer create-project laravel/laravel backend
 # Run Laravel development server
 php artisan serve
 
-http://127.0.0.1:8000
-
+http://127.0.0.1:8000/api/pokemons
 
 2. Frontend (Next.js)
 # Install frontend dependencies
